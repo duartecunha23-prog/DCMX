@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Núcleo IA</string>
+    <string name="nav_chat">Assistente</string>
+    <string name="nav_models">Modelos</string>
+    <string name="nav_camera">Câmara</string>
+    <string name="nav_scanner">QR &amp; Barras</string>
+    <string name="nav_author">Autor</string>
+    <string name="author_name">DUARTE CUNHA</string>
+    <string name="author_email">duartecunha@icloud.com</string>
+    <string name="author_phone_display">TEL. 962346169</string>
+    <string name="author_phone_raw">962346169</string>
+</resources>
